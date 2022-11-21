@@ -1,0 +1,8 @@
+Hi
+Give Credits In Anything You Do With These
+If You Wanna Use My Songs In A Mod, Ask Me In My Discord DM "JasperMakes03#5503"
+You Will Need Fl Studio 20.8.3 Or Newer Versions To Use These And You Will Need This VST Plugins To Open Some Of The FLPS:
+- OldSkoolVerb
+- KeroVee
+If Theres Missing Samples In A FLP Report It In The "Issues" Section
+Im Gonna Add More Later
